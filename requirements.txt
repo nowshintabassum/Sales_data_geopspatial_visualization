@@ -1,5 +1,7 @@
-tqdm
-selenium
+tqdm==4.66.1
+selenium==4.15.2
 folium
-pandas_gbq
-plotly
+pandas_gbq==0.19.2
+plotly==5.18.0
+requests==2.31.0
+nbformat==5.9.2
